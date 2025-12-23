@@ -57,6 +57,8 @@ The experiment uses the **Wine Quality – Red** dataset from the UCI Machine Le
 - Licence: Creative Commons Attribution 4.0 (CC BY 4.0)  
 - Purpose: Educational and experimental use  
 
+The dataset size was intentionally kept small to allow execution within a virtual machine environment.
+
 ---
 
 ## Repository Structure
