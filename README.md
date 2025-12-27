@@ -44,7 +44,7 @@ The technical demonstration implements two batch-oriented pipelines:
 - ACID transactions (MERGE / UPSERT)  
 - Transactional consistency  
 
-Data from both architectures is used to train an artificial neural network (ANN) implemented with TensorFlow and Keras.  
+Data from both architectures is used to train an artificial neural network implemented with TensorFlow and Keras.  
 The experiment highlights how data consistency and data quality influence neural network training behaviour.
 
 ---
