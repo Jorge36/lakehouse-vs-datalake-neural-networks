@@ -17,8 +17,12 @@ The research investigates how early data lakes, often characterised by raw and w
 
 - ACID transactions  
 - Schema enforcement  
-- Reliable batch processing  
-- Improved data quality and governance  
+- Diverse storage formats
+- Streaming ingestion  
+- Data versioning
+- Open-source tools
+- Governance frameworks#
+- Among other capabilities 
 
 These characteristics are critical for achieving scalable, reliable, and high-performing neural network training.
 
