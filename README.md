@@ -97,7 +97,7 @@ The experiment uses the **Wine Quality – Red** dataset from the UCI Machine Le
 
 ## Status
 
-This project is complete as an academic technical demonstration.  
+This project is complete.
 
 ---
 
