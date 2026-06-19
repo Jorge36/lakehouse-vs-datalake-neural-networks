@@ -6,7 +6,7 @@ This repository contains an academic project developed as part of a Master’s d
 The project explores how modern data lake and lakehouse architectures improve neural network training through efficient big data storage, processing, and data governance mechanisms.
 
 The work combines:
-- A research paper analysing the evolution of data lakes into lakehouse architectures and how it enhances the neural network training
+- A research paper analysing the evolution of data lakes into lakehouse architectures and how it enhances neural network training
 - A practical technical demonstration comparing a traditional data lake with a modern Delta Lake lakehouse
 
 ---
@@ -21,7 +21,7 @@ The research investigates how early data lakes, often characterised by raw and w
 - Streaming ingestion  
 - Data versioning
 - Open-source tools
-- Governance frameworks#
+- Governance frameworks
 - Among other capabilities 
 
 These characteristics are critical for achieving scalable, reliable, and high-performing neural network training.
